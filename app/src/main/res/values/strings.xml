@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MK1_SharedPreferences</string>
+    <string name="user_name">m.khaled</string>
+    <string name="user_password">123456</string>
+    <string name="Login_preference">com.mk_kadish.mk1_sharedpreferences_Login_preference </string>
+    <string name="login_status_preference">com.mk_kadish.mk1_sharedpreferences_login_status_preference</string>
+
+</resources>
+
