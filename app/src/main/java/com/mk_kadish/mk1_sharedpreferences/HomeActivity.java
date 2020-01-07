@@ -22,4 +22,10 @@ public class HomeActivity extends AppCompatActivity {
         startActivity(new Intent(this,MainActivity.class));
         finish();
     }
+
+    public void toUserManagement(View view)
+    {
+        startActivity(new Intent(this,userManagementActivity.class));
+        finish();
+    }
 }
